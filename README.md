@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **slegr/slegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236727F7&center=true&multiline=true&lines=Web+and++Software+development;and+other+cool+stuff!">
+</p>
